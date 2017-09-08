@@ -23,6 +23,8 @@ out/
 # db
 db/
 
+# build
+build/
 # file-uploads
 file-uploads/
 
